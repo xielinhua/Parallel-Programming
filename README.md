@@ -18,3 +18,5 @@ HUST-CS 2020级并行编程原理与实践
         e. 把 "./Pre-built.2/dll/x86/" 下的 .dll 文件复制到 "C:/Windows/SysWOW64/" 目录下
         f. 把 "./Pre-built.2/dll/x64/" 下的 .dll 文件复制到 "C:/Windows/System32/" 目录下
     (3) 运行 main.c 测试
+
+## educoder 测试 只需要文件中的部分代码，多余的代码是串行执行相同任务，方便计算加速比
